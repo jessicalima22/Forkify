@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jessicalima22/Forkify/issues"
   },
-  "homepage": "https://github.com/jessicalima22/Forkify#readme"
+  "homepage": "https://github.com/jessicalima22/Forkify#readme",
+  "dependencies": {
+    "core-js": "^3.33.0"
+  }
 }
